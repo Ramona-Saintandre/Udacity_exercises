@@ -4,9 +4,9 @@ provider "azurerm" {
 
 
 resource "Udacity_Devops_vm" "lesson4" {
-    name = "UdacityLesson4"
-    resource_group_name = "monaRG"
-    location = "US East"
+    name = "{var.prefix}-vm"
+    resource_group_name = azurerm_resource_group.example.name
+    location = var.location
     
     source_image_reference {
       //for project this will be the packer template 
