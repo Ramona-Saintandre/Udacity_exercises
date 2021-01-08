@@ -1,7 +1,11 @@
+
+## Azure provider information 
 provider "azurerm" {
   features{}
 }
 
+
+# Resource group information 
 
 resource "Udacity_Devops_vm" "lesson4" {
     name = "{var.prefix}-vm"
@@ -16,3 +20,15 @@ resource "Udacity_Devops_vm" "lesson4" {
       version = "latest"  
     }
 }
+
+## ***Don't forget to add tags*** 
+# Virtual Network 
+# subnet
+#public IP 
+# network security 
+# VM Seucurity Rules
+# load balancer
+# network interface 
+# linux VM machine 
+
+
