@@ -6,5 +6,3 @@
 [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm/tree/master/examples/virtual-machines/linux/basic-password)
 [Hashicorp -  Azure Provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 
-**Notes**
-auth token : vscode://vscode.github-authentication/did-authenticate?windowid=1&code=5ee4abff8a95ff3ee181&state=e1ee313a-1cd7-4e56-af2f-5747c611eefe
