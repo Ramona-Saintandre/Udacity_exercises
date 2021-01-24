@@ -7,7 +7,7 @@ provider "aurerm" {
 // resource group 
 
 resource "auzrem_linux_virtual_machine" "example" {
-    name - "myLinuxVm"
+    name = "myLinuxVm"
     resource_group_name = "myUdacityRG"
     location = "US East"
    //**need to add a tag 
