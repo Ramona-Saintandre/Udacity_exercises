@@ -6,3 +6,4 @@
 [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm/tree/master/examples/virtual-machines/linux/basic-password)
 [Hashicorp -  Azure Provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 
+[Terraform documentation for Azure](https://classroom.udacity.com/nanodegrees/nd082/parts/07bea1bd-9a45-4e1e-b79d-4a17b32e9faf/modules/7ddc5964-272c-4ffe-8353-a52f51a090cb/lessons/a1bde9e8-95f4-4686-8022-c5ed0395a23d/concepts/1fac040d-188a-454d-ab20-8451c7be7561)
