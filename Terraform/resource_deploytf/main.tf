@@ -18,16 +18,16 @@ resource "azurerm_resource_group" "main" {
 
 //Public IP address 
 
-resource "azurerm_public_ip" "main" {
-  name                = "acceptanceTestPublicIp1"
- resource_group_name  = azurerm_resource_group.main.name
-  virtual_network_name = azurerm_virtual_network.main.name
-  allocation_method   = "Static"
+# resource "azurerm_public_ip" "main" {
+#   name = "acceptanceTestPublicIp1"
+# resource_group_name  = azurerm_resource_group.main.name
+# virtual_network_name = azurerm_virtual_network.main.name
+# allocation_method   = "Static"
 
-#   tags = {
-#     environment = "lesson 4 terraform_deploy"
-#   }
-}
+# #   tags = {
+# #     environment = "lesson 4 terraform_deploy"
+# #   }
+# }
 
 resource "azurerm_virtual_network" "main" {
   name                = "${var.prefix}-network"
