@@ -1,5 +1,6 @@
 variable "prefix" {
   description = "The prefix which should be used for all rsources in this expample"
+  default = "udacityL4"
 }
 
   variable "location"{
