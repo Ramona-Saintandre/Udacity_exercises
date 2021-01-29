@@ -8,4 +8,5 @@ Cannot register provider Microsoft.HealthcareApis with Azure Resource Manager: r
    6: provider "azurerm" {
 
 Need to figure out how to put in spefic subscription 
-[azure role assignments](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/role_assignment)
+[azure role assignments](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/role_assignment)  
+[Azure Provider: Authenticating using a Service Principal with a Client Secret](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/service_principal_client_secret)  
