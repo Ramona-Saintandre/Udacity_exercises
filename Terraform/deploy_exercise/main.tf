@@ -27,34 +27,34 @@ source_image_reference {
  }
 }
 
-//virtual network
-//**need to add a tag 
-     tags = {
-         "environment" = "deployment exercise"
-     }
-//subnet
-//**need to add a tag 
-     tags = {
-         "environment" = "deployment exercise"
-     }
-//public IP
-//**need to add a tag 
-     tags = {
-         "environment" = "deployment exercise"
-     }
-//network security 
-//**need to add a tag 
-     tags = {
-         "environment" = "deployment exercise"
-     }
-//vm security
-//**need to add a tag 
-     tags = {
-         "environment" = "deployment exercise"
-     }
-//load balancer
-//**need to add a tag 
-     tags = {
-         "environment" = "deployment exercise"
-     }
+# //virtual network
+# //**need to add a tag 
+#      tags = {
+#          "environment" = "deployment exercise"
+#      }
+# //subnet
+# //**need to add a tag 
+#      tags = {
+#          "environment" = "deployment exercise"
+#      }
+# //public IP
+# //**need to add a tag 
+#      tags = {
+#          "environment" = "deployment exercise"
+#      }
+# //network security 
+# //**need to add a tag 
+#      tags = {
+#          "environment" = "deployment exercise"
+#      }
+# //vm security
+# //**need to add a tag 
+#      tags = {
+#          "environment" = "deployment exercise"
+#      }
+# //load balancer
+# //**need to add a tag 
+#      tags = {
+#          "environment" = "deployment exercise"
+#      }
 
