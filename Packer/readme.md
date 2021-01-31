@@ -12,3 +12,8 @@
 [Packer Privioners](https://www.packer.io/docs/provisioners)
 
 [Packer Template](https://video.udacity-data.com/topher/2020/September/5f68e6f4_demo/demo.json)
+
+Need to figure out how to put in spefic subscription 
+[azure role assignments](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/role_assignment)  
+[Azure Provider: Authenticating using a Service Principal with a Client Secret](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/service_principal_client_secret)  
+[Assignning policies using the CLI](https://azurecitadel.com/automation/policy/cli/)  
