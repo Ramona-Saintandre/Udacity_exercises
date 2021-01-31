@@ -24,4 +24,4 @@ Need to figure out how to put in spefic subscription
 [Packer Provisioners](https://www.packer.io/docs/provisioners)  
 [Shell Provisioner](https://www.packer.io/docs/provisioners/shell)  
  
- 
+ [Udacity Packer Template](https://video.udacity-data.com/topher/2020/September/5f68e6f4_demo/demo.json)  
