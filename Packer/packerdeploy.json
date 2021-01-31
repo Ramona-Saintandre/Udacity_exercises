@@ -16,7 +16,10 @@
         "managed_image_resource_group_name": "packer-rg",
         "managed_image_name": "myPackerImage",
         "location": "East US",
-        "vm_size": "Standard_A2"
+        "vm_size": "Standard_B1s",
+        "azure_tags": {
+            "udacity": "packerdeploy"
+        }
     }],
     "provisioners": [{
         "inline": [
