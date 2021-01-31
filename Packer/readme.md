@@ -21,3 +21,4 @@ Need to figure out how to put in spefic subscription
 [Azure Image Builder - Create and Deploy an Image Template](https://www.youtube.com/watch?v=vN62cL5_fV4)  
 [https://www.youtube.com/watch?v=vN62cL5_fV4](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/simple-azure-marketplace-virtual-machine-offer-creating-vm/ba-p/2058093)  
 
+[Packer Provisioners](https://www.packer.io/docs/provisioners)  
