@@ -17,3 +17,7 @@ Need to figure out how to put in spefic subscription
 [azure role assignments](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/role_assignment)  
 [Azure Provider: Authenticating using a Service Principal with a Client Secret](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/service_principal_client_secret)  
 [Assignning policies using the CLI](https://azurecitadel.com/automation/policy/cli/)  
+
+[Azure Image Builder - Create and Deploy an Image Template](https://www.youtube.com/watch?v=vN62cL5_fV4)  
+[https://www.youtube.com/watch?v=vN62cL5_fV4](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/simple-azure-marketplace-virtual-machine-offer-creating-vm/ba-p/2058093)  
+
