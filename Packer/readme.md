@@ -25,3 +25,12 @@ Need to figure out how to put in spefic subscription
 [Shell Provisioner](https://www.packer.io/docs/provisioners/shell)  
  
  [Udacity Packer Template](https://video.udacity-data.com/topher/2020/September/5f68e6f4_demo/demo.json)  
+
+
+ ## ERRORS
+
+ ==> azure-arm: Running builder ...
+Build 'azure-arm' errored after 6 milliseconds 999 microseconds: error fetching subscriptionID from VM metadata service for Managed Identity authentication: Get "http://169.254.169.254/metadata/instance/compute?api-version=2017-08-01&format=json": dial tcp 169.254.169.254:80: connectex: A socket operation was attempted to an unreachable network.
+
+
+[How to use managed identities for Azure resources on an Azure VM to acquire an access token](How to use managed identities for Azure resources on an Azure VM to acquire an access token)
