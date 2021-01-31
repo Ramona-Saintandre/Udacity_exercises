@@ -22,3 +22,6 @@ Need to figure out how to put in spefic subscription
 [https://www.youtube.com/watch?v=vN62cL5_fV4](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/simple-azure-marketplace-virtual-machine-offer-creating-vm/ba-p/2058093)  
 
 [Packer Provisioners](https://www.packer.io/docs/provisioners)  
+[Shell Provisioner](https://www.packer.io/docs/provisioners/shell)  
+ 
+ 
