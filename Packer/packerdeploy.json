@@ -1,9 +1,10 @@
 {
+    //az ad sp create-for-rbac --query "{ client_id: appId, client_secret: password, tenant_id: tenant }"
     "variables": {
-        "client_id": "cc124cba-1179-45ea-87bb-dde9cb3959a2",
-        "client_secret": "eA5fPWbY_juiJsMhnaZ_aNyIaDCe3uQvs8",
-        "tenant_id": "38e23809-f428-4d08-9f4e-b3b8b2df585c",
-        "subscription_id": "1d53902c-4bc6-44c8-82da-d1a59f04c098"
+        "client_id": "",
+        "client_secret": "",
+        "tenant_id": "",
+        "subscription_id": ""
     },
     "builders": [{
         "type": "azure-arm",
