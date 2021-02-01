@@ -1,7 +1,7 @@
 ## Tutorials on using Packer and Azure 
 
 **[How to use Packer to build a Windows Server Image for Azure](https://gmusumeci.medium.com/how-to-use-packer-to-build-a-windows-server-image-for-azure-52b1e14be2f2)**  followup resource 
-
+**[How to use Packer to create Linux virtual machine images in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/build-image-with-packer)**    
 [Building a Golden Image Pipeline with HashiCorp Packer and Azure DevOps](https://www.hashicorp.com/resources/building-a-golden-image-pipeline-with-hashicorp-packer-and-azure-devops)
 
 [Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines](https://azuredevopslabs.com/labs/vstsextend/terraform/)  - lab  
