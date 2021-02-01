@@ -31,3 +31,13 @@ Need to figure out how to put in spefic subscription
 
  [Packer deploy is failing](https://knowledge.udacity.com/questions/375046)  
  [How to define env variables with Packer](https://knowledge.udacity.com/questions/358489)  
+
+ ## Create Azure credentials  
+Packer authenticates with Azure using a service principal. An Azure service principal is a security identity that you can use with apps, services, and automation tools like Packer. You control and define the permissions as to what operations the service principal can perform in Azure.
+
+Create a service principal with az ad sp create-for-rbac and output the credentials that Packer needs:
+
+Azure CLI
+
+Copy
+az ad sp create-for-rbac --query "{ client_id: appId, client_secret: password, tenant_id: tenant }"
