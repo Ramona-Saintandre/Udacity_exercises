@@ -1,6 +1,6 @@
 ## Tutorials on using Packer and Azure 
 
-[How to use Packer to build a Windows Server Image for Azure](https://gmusumeci.medium.com/how-to-use-packer-to-build-a-windows-server-image-for-azure-52b1e14be2f2) 
+**[How to use Packer to build a Windows Server Image for Azure](https://gmusumeci.medium.com/how-to-use-packer-to-build-a-windows-server-image-for-azure-52b1e14be2f2)**
 
 [Building a Golden Image Pipeline with HashiCorp Packer and Azure DevOps](https://www.hashicorp.com/resources/building-a-golden-image-pipeline-with-hashicorp-packer-and-azure-devops)
 
