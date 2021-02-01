@@ -1,11 +1,12 @@
-## Udacity Packer Exercises 
+## Tutorials on using Packer and Azure 
 
+[How to use Packer to build a Windows Server Image for Azure](https://gmusumeci.medium.com/how-to-use-packer-to-build-a-windows-server-image-for-azure-52b1e14be2f2) 
 
-[Intro to packer](https://classroom.udacity.com/nanodegrees/nd082/parts/07bea1bd-9a45-4e1e-b79d-4a17b32e9faf/modules/7ddc5964-272c-4ffe-8353-a52f51a090cb/lessons/a1bde9e8-95f4-4686-8022-c5ed0395a23d/concepts/f341bcb0-3c12-485a-8fda-9ee9761f66ce)
+[Building a Golden Image Pipeline with HashiCorp Packer and Azure DevOps](https://www.hashicorp.com/resources/building-a-golden-image-pipeline-with-hashicorp-packer-and-azure-devops)
 
-[Components of a Packer Template](https://classroom.udacity.com/nanodegrees/nd082/parts/07bea1bd-9a45-4e1e-b79d-4a17b32e9faf/modules/7ddc5964-272c-4ffe-8353-a52f51a090cb/lessons/a1bde9e8-95f4-4686-8022-c5ed0395a23d/concepts/6cb626d0-4ff0-44c0-ae0e-039fa3111940)
+[Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines](https://azuredevopslabs.com/labs/vstsextend/terraform/)  - lab  
 
-[Deploying an Image with Packer](Deploying an Image with Packer)
+[Securing Infrastructure In Application Pipelines](https://www.hashicorp.com/resources/securing-infrastructure-in-application-pipelines)  
 
 **Notes**
 
@@ -25,6 +26,3 @@ Need to figure out how to put in spefic subscription
 [Shell Provisioner](https://www.packer.io/docs/provisioners/shell)  
  
  [Udacity Packer Template](https://video.udacity-data.com/topher/2020/September/5f68e6f4_demo/demo.json)  
-
-
- 
